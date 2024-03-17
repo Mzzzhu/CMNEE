@@ -6,6 +6,7 @@ CMNEE was used to support a competition on the joint extraction of specific doma
 <a href="url">https://www.datafountain.cn/competitions/987</a>
 
 Note that difference between CMNEE and FNDEE was the division. In order to facilitate the organisation and advancement of the competition, FNDEE divided the data into five subsets, which can be found in the introduction to the competition.
+
 <a href="url">https://www.datafountain.cn/competitions/987/datasets</a>
 
-To be released
+Relevant code and dataset for our paper will be released.
