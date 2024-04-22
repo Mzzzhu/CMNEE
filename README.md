@@ -7,7 +7,7 @@ CMNEE is a large-scale, document-level open-source Chinese Military News Event E
 
 # About CMNEE
 ## Relevant Competition
-CMNEE was used to support a competition "[Joint Extraction of Specific Domain Multi-Events Information](https://www.datafountain.cn/competitions/987)" held by Laboratary for Big Data and Decision, National University of Defense Technology. Although the formal competition has ended, the evaluation has been reopened to drive related research forward. The competition tasks will remain open for sustained benchmarking, and everyone is welcome to participate in the challenge. The competition organizers will continue to monitor the leaderboard results to select outstanding teams.
+CMNEE was used to support a competition "[Joint Extraction of Specific Domain Multi-Events Information](https://www.datafountain.cn/competitions/987)" held by Laboratory for Big Data and Decision, National University of Defense Technology. Although the formal competition has ended, the evaluation has been reopened to drive related research forward. The competition tasks will remain open for sustained benchmarking, and everyone is welcome to participate in the challenge. The competition organizers will continue to monitor the leaderboard results to select outstanding teams.
 
 Note that in order to facilitate the organisation and advancement of the competition, there are 3 main differences between CMNEE (evaluated in our paper) and [FNDEE](https://www.datafountain.cn/competitions/987/datasets) (released in the competition platform):
 + Data split: FNDEE was divided into five subsets, which can be found in the introduction to the competition. CMNEE was divided into train, valid and test set.
