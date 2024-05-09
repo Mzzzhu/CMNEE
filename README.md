@@ -12,7 +12,7 @@ CMNEE was used to support a competition "[Joint Extraction of Specific Domain Mu
 Note that in order to facilitate the organisation and advancement of the competition, there are 3 main differences between CMNEE (evaluated in our paper) and [FNDEE](https://www.datafountain.cn/competitions/987/datasets) (released in the competition platform):
 + Data split: FNDEE was divided into five subsets, which can be found in the introduction to the competition. CMNEE was divided into train, valid and test set.
 + Test label: Test sets of FNDEE have no label information.
-+ Evaluation method: CMNEE used common metrics (Precision, Recall and F1-score) to evalute systematically while FNDEE used the average of Trigger F1-score, argument F1-score and overlapping argument F1-score to evalute. Detailed information can be found in our paper and the competition website.
++ Evaluation method: CMNEE used common metrics (Precision, Recall and F1-score) to evalute systematically while FNDEE used the average of Trigger F1-score, argument F1-score and overlapping argument F1-score to evaluate. Detailed information can be found in our paper and the competition website.
 
 
 ## Data format
