@@ -1,6 +1,8 @@
 # CMNEE
 LREC-COLING 2024的文章"[**CMNEE: A Large-Scale Document-Level Event Extraction Dataset based on Open-Source Chinese Military News**](http://export.arxiv.org/abs/2404.12242)"的数据和代码将会在近期公布。
 
+CMNEE下载地址：https://drive.google.com/drive/folders/1nfKiSsu88oBeykUSYm7NGn4Q50_2GPS1?usp=sharing
+
 # 概况
 CMNEE是一个大规模的、基于文档标注的开源中文军事新闻事件抽取数据集。该数据集包含**17,000**份文档和**29,223**个事件，所有事件均基于预定义的军事领域模式人工标注，包括8种事件类型和11种论元角色。
 
@@ -158,6 +160,16 @@ CMNEE用于支撑**国防科技大学大数据与决策实验室**举办的第�
  ]
 }
 ```
+
+# CMNEE评估
+## 基线模型
+1. [DCFEE-O & DCFEE-M](https://aclanthology.org/P18-4009.pdf)
+2. [GreedyDec & Doc2EDAG](https://arxiv.org/pdf/1904.07535)
+3. [DEPPN](https://aclanthology.org/2021.acl-long.492.pdf)
+4. [BERT+CRF](https://arxiv.org/pdf/2309.14258)
+5. [EEQA](https://arxiv.org/pdf/2004.13625)
+6. [TEXT2EVENT](https://arxiv.org/pdf/2106.09232)
+7. [PAIE](https://arxiv.org/pdf/2202.12109)
 
 # 引用说明
 如果CMNEE对您的研究有所帮助，请考虑引用相关文章。
