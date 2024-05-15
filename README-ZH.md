@@ -173,6 +173,8 @@ CMNEE用于支撑**国防科技大学大数据与决策实验室**举办的第�
 
 # 引用说明
 如果CMNEE对您的研究有所帮助，请考虑引用相关文章。
+如有问题，请联系📮：zhumengna16@nudt.edu.cn，欢迎讨论交流。
+
 ```
 @misc{zhu2024cmnee,
     title={CMNEE: A Large-Scale Document-Level Event Extraction Dataset based on Open-Source Chinese Military News},
