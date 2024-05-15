@@ -160,7 +160,15 @@ Note that in order to facilitate the organisation and advancement of the competi
 }
 ```
 
-
+# Evaluation
+## Baselines
+1. [DCFEE-O & DCFEE-M](https://aclanthology.org/P18-4009.pdf)
+2. [GreedyDec & Doc2EDAG](https://arxiv.org/pdf/1904.07535)
+3. [DEPPN](https://aclanthology.org/2021.acl-long.492.pdf)
+4. [BERT+CRF](https://arxiv.org/pdf/2309.14258)
+5. [EEQA](https://arxiv.org/pdf/2004.13625)
+6. [TEXT2EVENT](https://arxiv.org/pdf/2106.09232)
+7. [PAIE](https://arxiv.org/pdf/2202.12109)
 
 
 # Citation
