@@ -176,7 +176,9 @@ Relevant processed data can be found from: https://drive.google.com/drive/folder
 Except for BERT+CRF and TEXT2EVENT, which we reproduced via [Omnievent](https://github.com/THU-KEG/OmniEvent), a comprehensive, fair, and easy-to-use toolkit for event understanding, other models were implemented through their relevant original repository.
 
 # Citation
-If CMNEE is helpful to your research, please consider citing the relevant paper. Thank you.
+If CMNEE is helpful to your research, please consider citing the relevant paper. Thank you. 
+If any questions, please contact us via email (📮: zhumengna16@nudt.edu.cn) and we welcome discussions and exchanges.
+
 ```
 @misc{zhu2024cmnee,
     title={CMNEE: A Large-Scale Document-Level Event Extraction Dataset based on Open-Source Chinese Military News},
