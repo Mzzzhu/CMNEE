@@ -172,6 +172,8 @@ Note that in order to facilitate the organisation and advancement of the competi
 6. [TEXT2EVENT](https://arxiv.org/pdf/2106.09232)
 7. [PAIE](https://arxiv.org/pdf/2202.12109)
 
+Relevant processed data can be found from: https://drive.google.com/drive/folders/1I8LZFlqbOiKU0068pPszOmyD2XWOHDKf?usp=sharing.
+Except for BERT+CRF and TEXT2EVENT, which we reproduced via [Omnievent](https://github.com/THU-KEG/OmniEvent), a comprehensive, fair, and easy-to-use toolkit for event understanding, other models were implemented through their relevant original repository.
 
 # Citation
 If CMNEE is helpful to your research, please consider citing the relevant paper. Thank you.
