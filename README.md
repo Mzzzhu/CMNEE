@@ -2,7 +2,7 @@
 Source code and dataset for LREC-COLING 2024 paper: "[**CMNEE: A Large-Scale Document-Level Event Extraction Dataset based on Open-Source Chinese Military News**](http://export.arxiv.org/abs/2404.12242)"
 will be released.
 
-CMNEE can be downloaded from https://drive.google.com/drive/folders/1nfKiSsu88oBeykUSYm7NGn4Q50_2GPS1?usp=sharing.
+CMNEE can be obtained from https://drive.google.com/drive/folders/1nfKiSsu88oBeykUSYm7NGn4Q50_2GPS1?usp=sharing.
 
 # Overview
 CMNEE is a large-scale, document-level open-source Chinese Military News Event Extraction dataset. It contains **17,000** documents and **29,223** events, which are all manually annotated based on a pre-defined schema for the military domain including 8 event types and 11 argument role types.
@@ -172,7 +172,7 @@ Note that in order to facilitate the organisation and advancement of the competi
 6. [TEXT2EVENT](https://arxiv.org/pdf/2106.09232)
 7. [PAIE](https://arxiv.org/pdf/2202.12109)
 
-Relevant processed data can be found from: https://drive.google.com/drive/folders/1I8LZFlqbOiKU0068pPszOmyD2XWOHDKf?usp=sharing.
+Relevant processed data can be obtained from: https://drive.google.com/drive/folders/1I8LZFlqbOiKU0068pPszOmyD2XWOHDKf?usp=sharing.
 Except for BERT+CRF and TEXT2EVENT, which we reproduced via [Omnievent](https://github.com/THU-KEG/OmniEvent), a comprehensive, fair, and easy-to-use toolkit for event understanding, other models were implemented through their relevant original repository.
 
 # Citation
