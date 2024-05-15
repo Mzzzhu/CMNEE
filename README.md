@@ -177,6 +177,7 @@ Except for BERT+CRF and TEXT2EVENT, which we reproduced via [Omnievent](https://
 
 # Citation
 If CMNEE is helpful to your research, please consider citing the relevant paper. Thank you. 
+
 If any questions, please contact us via email (📮: zhumengna16@nudt.edu.cn) and we welcome discussions and exchanges.
 
 ```
