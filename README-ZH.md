@@ -176,12 +176,28 @@ CMNEE用于支撑**国防科技大学大数据与决策实验室**举办的第�
 如有问题，请联系📮：zhumengna16@nudt.edu.cn，欢迎讨论交流。
 
 ```
-@misc{zhu2024cmnee,
-    title={CMNEE: A Large-Scale Document-Level Event Extraction Dataset based on Open-Source Chinese Military News},
-    author={Mengna Zhu and Zijie Xu and Kaisheng Zeng and Kaiming Xiao and Mao Wang and Wenjun Ke and Hongbin Huang},
-    year={2024},
-    eprint={2404.12242},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
+@inproceedings{zhu-etal-2024-cmnee-large,
+    title = "{CMNEE}:A Large-Scale Document-Level Event Extraction Dataset Based on Open-Source {C}hinese Military News",
+    author = "Zhu, Mengna  and
+      Xu, Zijie  and
+      Zeng, Kaisheng  and
+      Xiao, Kaiming  and
+      Wang, Mao  and
+      Ke, Wenjun  and
+      Huang, Hongbin",
+    editor = "Calzolari, Nicoletta  and
+      Kan, Min-Yen  and
+      Hoste, Veronique  and
+      Lenci, Alessandro  and
+      Sakti, Sakriani  and
+      Xue, Nianwen",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italy",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.299",
+    pages = "3367--3379",
+    abstract = "Extracting structured event knowledge, including event triggers and corresponding arguments, from military texts is fundamental to many applications, such as intelligence analysis and decision assistance. However, event extraction in the military field faces the data scarcity problem, which impedes the research of event extraction models in this domain. To alleviate this problem, we propose CMNEE, a large-scale, document-level open-source Chinese Military News Event Extraction dataset. It contains 17,000 documents and 29,223 events, which are all manually annotated based on a pre-defined schema for the military domain including 8 event types and 11 argument role types. We designed a two-stage, multi-turns annotation strategy to ensure the quality of CMNEE and reproduced several state-of-the-art event extraction models with a systematic evaluation. The experimental results on CMNEE fall shorter than those on other domain datasets obviously, which demonstrates that event extraction for military domain poses unique challenges and requires further research efforts. Our code and data can be obtained from https://github.com/Mzzzhu/CMNEE. Keywords: Corpus,Information Extraction, Information Retrieval, Knowledge Discovery/Representation",
 }
 ```
