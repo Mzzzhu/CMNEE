@@ -171,6 +171,8 @@ CMNEE用于支撑**国防科技大学大数据与决策实验室**举办的第�
 6. [TEXT2EVENT](https://arxiv.org/pdf/2106.09232)
 7. [PAIE](https://arxiv.org/pdf/2202.12109)
 
+基线模型的处理数据[下载](https://drive.google.com/drive/folders/1I8LZFlqbOiKU0068pPszOmyD2XWOHDKf?usp=sharing)。
+
 # 引用说明
 如果CMNEE对您的研究有所帮助，请考虑引用相关文章。
 如有问题，请联系📮：zhumengna16@nudt.edu.cn，欢迎讨论交流。
