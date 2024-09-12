@@ -3,6 +3,12 @@ LREC-COLING 2024的文章"[**CMNEE: A Large-Scale Document-Level Event Extractio
 
 CMNEE下载地址：https://drive.google.com/drive/folders/1nfKiSsu88oBeykUSYm7NGn4Q50_2GPS1?usp=sharing
 
+也可以通过百度网盘下载。
+
+链接：https://pan.baidu.com/s/1Vks_SpLJ3pBdc5J5wininw?pwd=8848 
+
+提取码：8848 
+
 # 概况
 CMNEE是一个大规模的、基于文档标注的开源中文军事新闻事件抽取数据集。该数据集包含**17,000**份文档和**29,223**个事件，所有事件均基于预定义的军事领域模式人工标注，包括8种事件类型和11种论元角色。
 
