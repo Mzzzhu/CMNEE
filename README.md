@@ -4,6 +4,10 @@ will be released.
 
 CMNEE can be obtained from https://drive.google.com/drive/folders/1nfKiSsu88oBeykUSYm7NGn4Q50_2GPS1?usp=sharing.
 
+You can also download CMNEE using BaiduNetDisk.
+Link：https://pan.baidu.com/s/1ADszmZ2PJ3BmGN9RPI_LCQ?pwd=8848 
+password：8848
+
 # Overview
 CMNEE is a large-scale, document-level open-source Chinese Military News Event Extraction dataset. It contains **17,000** documents and **29,223** events, which are all manually annotated based on a pre-defined schema for the military domain including 8 event types and 11 argument role types.
 
