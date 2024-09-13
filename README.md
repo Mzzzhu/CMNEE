@@ -6,11 +6,7 @@ CMNEE can be obtained from:
 
 1) Google driver: https://drive.google.com/drive/folders/1nfKiSsu88oBeykUSYm7NGn4Q50_2GPS1?usp=sharing.
 
-2) BaiduNetDisk.
-
-Link：https://pan.baidu.com/s/1ADszmZ2PJ3BmGN9RPI_LCQ?pwd=8848
-
-password：8848
+2) BaiduNetDisk: Link：https://pan.baidu.com/s/1ADszmZ2PJ3BmGN9RPI_LCQ?pwd=8848  Password：8848
 
 3) DataFountain: https://competition-main.oss-cn-beijing.aliyuncs.com/dfadminwebsite-production/uploads/images/competitions/662/%E6%96%87%E7%AB%A0%E6%95%B0%E6%8D%AE%E9%9B%86-566366.zip
 
