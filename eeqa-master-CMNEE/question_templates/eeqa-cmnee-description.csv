@@ -1,0 +1,32 @@
+Experiment_Subject,Who is the subject of the experiment?
+Experiment_Equipment,What is the equipment of the experiment?
+Experiment_Date,When the experiment takes place?
+Experiment_Location,Where the experiment takes place?
+Manoeuvre_Subject,Who is the subject of the manoeuvre?
+Manoeuvre_Date,When the event takes place?
+Manoeuvre_Area,Where the event takes place?
+Manoeuvre_Content,What is the content of the manoeuvre?
+Deploy_Subject,Who is the subject of the deployment?
+Deploy_Militaryforce,What Millitary is to be deployed?
+Deploy_Date,When the event takes place?
+Deploy_Location,Where the event takes place?
+Support_Subject,Who is the subject of support?
+Support_Object,Who is the object of support?
+Support_Materials,What Materials is to be supported?
+Support_Date,When the event takes place?
+Accident_Subject,Who is the subject of the accident?
+Accident_Date,When the event takes place?
+Accident_Location,Where the event takes place?
+Accident_Result,What is the result of the accident?
+Exhibit_Subject,Who is the subject of exhibit?
+Exhibit_Equipment,What equipment is to be exhibited?
+Exhibit_Date,When the event takes place?
+Exhibit_Location,Where the event takes place?
+Conflict_Subject,Who is the subject of Conflict?
+Conflict_Object,Who is the object of Conflict?
+Conflict_Date,When the event takes place?
+Conflict_Location,Where the event takes place?
+Injure_Subject,Who is the injured subject?
+Injure_Quantity,What is the quantity of the injured subject?
+Injure_Date,When the event takes place?
+Injure_Location,Where the event takes place?

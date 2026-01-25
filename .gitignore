@@ -1,0 +1,66 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.env
+.venv
+venv/
+ENV/
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+
+# ===== Logs & Temp =====
+*.log
+*.tmp
+*.swp
+*.bak
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== IDE =====
+.vscode/
+.idea/
+*.iml
+
+# ===== Data & Output =====
+data/
+dataset/
+datasets/
+raw_data/
+processed_data/
+outputs/
+results/
+logs/
+checkpoints/
+ckpts/
+models/
+
+# ===== Deep Learning =====
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.onnx
+
+# ===== LLM / Experiment =====
+.cache/
+wandb/
+mlruns/
+
+# ===== Build =====
+build/
+dist/
+*.egg-info/
+
+# ===== Latex =====
+*.aux
+*.bbl
+*.blg
+*.out
+*.toc
+*.synctex.gz
