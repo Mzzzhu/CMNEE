@@ -2,6 +2,8 @@
 Source code and dataset for LREC-COLING 2024 paper: "[**CMNEE: A Large-Scale Document-Level Event Extraction Dataset based on Open-Source Chinese Military News**](http://export.arxiv.org/abs/2404.12242)"
 will be released.
 
+If this dataset is helpful to you, please cite relevant paper and star this repository. Thanks!
+
 CMNEE can be obtained from:
 
 1) Google driver: [https://drive.google.com/drive/folders/1nfKiSsu88oBeykUSYm7NGn4Q50_2GPS1?usp=sharing](https://drive.google.com/drive/folders/1nfKiSsu88oBeykUSYm7NGn4Q50_2GPS1?usp=drive_link).
