@@ -9,6 +9,7 @@ CMNEE can be obtained from:
 1) Google driver: [https://drive.google.com/drive/folders/1nfKiSsu88oBeykUSYm7NGn4Q50_2GPS1?usp=sharing](https://drive.google.com/drive/folders/1nfKiSsu88oBeykUSYm7NGn4Q50_2GPS1?usp=drive_link).
 
 2) BaiduNetDisk: Link：https://pan.baidu.com/s/120inda-Gr_Qp6VNSg87XTg   Password：8848
+3) Modelscope: https://www.modelscope.cn/datasets/mzzzhu/CMNEE
 
 
 # Overview
